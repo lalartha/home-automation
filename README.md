@@ -2,25 +2,25 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Explorer vazhas..
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Arthalal C - College of Engineering Perumon
+- Member 2: Alba Asha - College of Engineering Perumon
+- Member 3: Fathima Rasheed - College of Engineering Perumon
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/lalartha/home-automation
 
 ### Project Description
-[2-3 lines about what your project does]
+It has smart led lighting system using LDR to reduce power consumption(i.e,automatic gate light),stair case led using IR sensor and also has a gas sensor to sense the leakage of LPG gas in home for safety.PIR sensor in bed room to switch on the led when any montion is detected,servo motor for automatic door smart parking area using ultrasonic sensor and buzzer.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+this project invovles home automation for energy efficiency,security,and covenience by intergating smart lighting
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+this project literally makes as lazy,we are making 
 
 ## Technical Details
 ### Technologies/Components Used
