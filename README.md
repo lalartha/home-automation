@@ -181,16 +181,23 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![Final]![home automation pic](https://github.com/user-attachments/assets/1ae7a35f-eb6e-4dfb-b475-0c04c6af9cfc)
+![home automation pic3](https://github.com/user-attachments/assets/fd299e07-ffee-4d37-b5c3-c28469205d9c)
+
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
+Uploading home automation video.mp4…
+
+
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+
+![home automation pic2](https://github.com/user-attachments/assets/c22010e0-8317-4fa4-9837-99ea90a69428)
 
 ## Team Contributions
 - Arthalal C: wiring and connection of sensors
