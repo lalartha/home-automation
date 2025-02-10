@@ -180,26 +180,24 @@ For Hardware:
 
 bread board,usb,arduino uno,gas sensor,buzzer,IR sensors,LEDs,resistor,ESP32,Li battery,ultrasonic sensor,PIR sensor,servo motor,LDR
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Build]!
+[WhatsApp Image 2025-02-10 at 16 08 11_25225b85](https://github.com/user-attachments/assets/c151e5ee-9a6a-461a-a043-17283a2b2159)
+
+cutting foam board for the mini home model
+![home automation pic2](https://github.com/user-attachments/assets/b8f05135-090d-432c-b2fc-a1f061dad6a1)
+checking whether the led is working and connecting ultrasonic sensor
 
 ![Final]![home automation pic](https://github.com/user-attachments/assets/1ae7a35f-eb6e-4dfb-b475-0c04c6af9cfc)
 ![home automation pic3](https://github.com/user-attachments/assets/fd299e07-ffee-4d37-b5c3-c28469205d9c)
+ it is a automated home model with smart led lighting ,gas sensor for safety,ultrasonic sensor for ehanced parking experience,servo motor for automatic door.
 
-*Explain the final build*
 
 ### Project Demo
 # Video
 
-
-Uploading home automation video.mp4…
-
-
 *Explain what the video demonstrates*
 
 # Additional Demos
-
-![home automation pic2](https://github.com/user-attachments/assets/c22010e0-8317-4fa4-9837-99ea90a69428)
 
 ## Team Contributions
 - Arthalal C: wiring and connection of sensors
