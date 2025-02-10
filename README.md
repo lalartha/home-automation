@@ -175,8 +175,10 @@ For Hardware:
 ![Team](Add photo of your team here)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]
+![automation components](https://github.com/user-attachments/assets/c755e25d-4adb-443c-82e9-a859f73b58a7)
+
+bread board,usb,arduino uno,gas sensor,buzzer,IR sensors,LEDs,resistor,ESP32,Li battery,ultrasonic sensor,PIR sensor,servo motor,LDR
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
