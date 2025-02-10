@@ -165,10 +165,14 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+![Circuit]
+![home automation circuit](https://github.com/user-attachments/assets/fc63be73-9a07-4d18-b2c2-761c3e7d6d04)
+
 *Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
+![Schematic]
+[home automation schematic.pdf](https://github.com/user-attachments/files/18732930/home.automation.schematic.pdf)
+
 *Add caption explaining the schematic*
 
 # Build Photos
