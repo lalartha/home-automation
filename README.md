@@ -168,15 +168,15 @@ For Hardware:
 ![Circuit]
 ![home automation circuit](https://github.com/user-attachments/assets/fc63be73-9a07-4d18-b2c2-761c3e7d6d04)
 
-*Add caption explaining connections*
+
 
 ![Schematic]
 [home automation schematic.pdf](https://github.com/user-attachments/files/18732930/home.automation.schematic.pdf)
 
-*Add caption explaining the schematic*
+
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team]
 ![fathima rasheed](https://github.com/user-attachments/assets/22d98d51-f7ef-4946-b889-3eaba3522b77)
 ![Arthalal c](https://github.com/user-attachments/assets/2a187c10-885e-4530-aec2-5570ee9e420f)
 
@@ -198,10 +198,10 @@ checking whether the led is working and connecting ultrasonic sensor
  it is a automated home model with smart led lighting ,gas sensor for safety,ultrasonic sensor for ehanced parking experience,servo motor for automatic door.
 
 
-### Project Demo
+### Project Demor 
 # Video
-
-*Explain what the video demonstrates*
+the video is attached as another file have a look at it.we tried to demostrate the working of the model but due to sometechnical issues servo motor isn't working prroperly,we really tried our best to , the PIR
+sensor is having some issue in sensing  due to its arrangement still it works ,due to limited time we were unable to take a good video ,hope it helps to know about our project. Moreover  the video demonstrates the woking of IR sensor and LDR sensor and also ultra sonic and gas sensor.
 
 # Additional Demos
 
