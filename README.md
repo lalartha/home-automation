@@ -177,8 +177,9 @@ For Hardware:
 
 # Build Photos
 ![Team]
-![fathima rasheed](https://github.com/user-attachments/assets/22d98d51-f7ef-4946-b889-3eaba3522b77)
+![Fathima rasheed](https://github.com/user-attachments/assets/22d98d51-f7ef-4946-b889-3eaba3522b77)
 ![Arthalal c](https://github.com/user-attachments/assets/2a187c10-885e-4530-aec2-5570ee9e420f)
+![Alba asha](https://github.com/user-attachments/assets/e455cf0d-44ee-4a95-912c-573d9d43e663)
 
 
 ![Components]
